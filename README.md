@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shayanrsh
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Computer Vision and Deep Learning
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: Contact me via email (1shayanrsh@gmail.com)
 
