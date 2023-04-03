@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shayanrsh
-- 👀 I’m interested in Computer Vision and Deep Learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning required skills from datacamp
 - 📫 How to reach me: Contact me via email (1shayanrsh@gmail.com)
 
 <!---
