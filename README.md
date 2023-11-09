@@ -1,4 +1,4 @@
-<img src='https://github.com/shayanrsh/shayanrsh/blob/main/giphy.gif' width='25'>
+<img src='https://github.com/shayanrsh/shayanrsh/blob/main/giphy.gif' width='700'>
 - 👋 Hi, I’m @shayanrsh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning required skills from datacamp
