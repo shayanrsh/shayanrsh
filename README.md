@@ -1,4 +1,4 @@
-![](https://github.com/shayanrsh/shayanrsh/blob/main/giphy.gif)
+![](https://github.com/shayanrsh/shayanrsh/blob/main/giphy2.gif)
 - 👋 Hi, I’m @shayanrsh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning required skills from datacamp
