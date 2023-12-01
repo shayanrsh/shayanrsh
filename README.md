@@ -1,4 +1,4 @@
-![](https://github.com/shayanrsh/shayanrsh/blob/main/giphy2.gif)
+![](https://github.com/shayanrsh/shayanrsh/blob/main/Power%20Bi%20Udemy%20Course%20Project%20HQ.gif)
 - 👋 Hi, I’m @shayanrsh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning required skills from datacamp
