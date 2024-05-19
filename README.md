@@ -7,12 +7,12 @@ I'm a recent graduate with a Master’s degree in Data Science. I have a strong 
 - 📚 **Currently Learning:** Data Scientist in Python from datacamp bootcamp
 
 # Skills 🔮
-**Programming Languages:** Python, SQL, MATLAB, C++(Arduino)
-**Data Processing & Machine Learning:** NumPy, pandas, scikit-learn, TensorFlow, Keras, SciPy
-**Data Visualization & BI:** Microsoft Power BI, Matplotlib, seaborn
-**Databases & Version Control:** PostgreSQL, Git, GitHub
-**Web Development & Web Scraping:** Flask, HTML, CSS, API (Requests), Selenium, Beautiful Soup
-**Additional Tools:** Linux, Microsoft Excel, LaTeX
+- **Programming Languages:** Python, SQL, MATLAB, C++(Arduino)
+- **Data Processing & Machine Learning:** NumPy, pandas, scikit-learn, TensorFlow, Keras, SciPy
+- **Data Visualization & BI:** Microsoft Power BI, Matplotlib, seaborn
+- **Databases & Version Control:** PostgreSQL, Git, GitHub
+- **Web Development & Web Scraping:** Flask, HTML, CSS, API (Requests), Selenium, Beautiful Soup
+- **Additional Tools:** Linux, Microsoft Excel, LaTeX
 
 # Get in Touch 📬
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shayanrsh/) or follow me on [X (Twitter)](https://x.com/Shayanrsh/). 
