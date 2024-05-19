@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @shayanrsh
-- 👀 I’m a recent graduate with a Master's degree in Data Science. I'm passionate about leveraging data to extract insights and solve real-world problems.
-- 🌱 I’m currently improving my skills and on the lookout for opportunities to kick-start my career in this dynamic field
-- 📫 Feel free to contact me on Linkedin or X (Twitter)
+# Hi there, I’m Shayan! 👋
+
+I'm a recent graduate with a Master’s degree in Data Science. I have a strong passion for leveraging data to extract meaningful insights and solve real-world problems. Throughout my academic journey, I've honed my skills in data analysis, machine learning, and data visualization, and I'm eager to apply these skills in a professional setting.
+
+# About Me
+- 🎓 **Education:** Master’s in Data Science
+- 📚 **Currently Learning:** Data Scientist in Python from datacamp bootcamp
+
+# Skills 🔮
+**Programming Languages:** Python, SQL, MATLAB, C++(Arduino)
+**Data Processing & Machine Learning:** NumPy, pandas, scikit-learn, TensorFlow, Keras, SciPy
+**Data Visualization & BI:** Microsoft Power BI, Matplotlib, seaborn
+**Databases & Version Control:** PostgreSQL, Git, GitHub
+**Web Development & Web Scraping:** Flask, HTML, CSS, API (Requests), Selenium, Beautiful Soup
+**Additional Tools:** Linux, Microsoft Excel, LaTeX
+
+# Get in Touch 📬
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shayanrsh/) or follow me on [X (Twitter)](https://x.com/Shayanrsh/). 
+I'm always open to discussing new projects, collaborations, or any exciting opportunities in the field of data science.
+
 
 <!---
 shayanrsh/shayanrsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
