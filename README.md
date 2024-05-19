@@ -1,5 +1,7 @@
 # Hi there, I’m Shayan! 👋
 
+[](https://github.com/shayanrsh/shayanrsh/blob/main/giphy2.gif)
+
 I'm a recent graduate with a Master’s degree in Data Science. I have a strong passion for leveraging data to extract meaningful insights and solve real-world problems. Throughout my academic journey, I've honed my skills in data analysis, machine learning, and data visualization, and I'm eager to apply these skills in a professional setting.
 
 ## About Me
